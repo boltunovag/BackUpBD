@@ -56,5 +56,3 @@
 
 
 
-![Скрин 1](screenshots/hw8-03s1.png)
-![Скрин 2](screenshots/hw8-03s2.png)
